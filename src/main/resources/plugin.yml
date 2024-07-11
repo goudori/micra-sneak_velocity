@@ -1,0 +1,4 @@
+name: Eight_micra
+version: '${version}'
+main: plugin.eight_micra.Main
+api-version: '1.20'
